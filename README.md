@@ -2,6 +2,13 @@
 
 
 A simple ruby script to move tasks from asana to jira.
+
+Steps:
+
+1. Install ruby.
+2. Clone/Download repo.
+3. Run `ruby app.rb`
+
 ```bash
 ruby app.rb
 Enter Personal Access Token for Asana :
