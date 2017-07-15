@@ -1,7 +1,7 @@
 # asana_to_jira
 
 
-A simple ruby script to move tasks from asana to jira.
+A simple ruby script to move tasks from [Asana](https://asana.com/) to [Jira](https://www.atlassian.com/software/jira).
 
 Steps:
 
