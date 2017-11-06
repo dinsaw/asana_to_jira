@@ -78,3 +78,7 @@ Proceed to create issues on Jira?(yes/no)
 yes
 {"issues"=>[{"id"=>"12400", "key"=>"db-1672", "self"=>"https://dbteam.atlassian.net/rest/api/2/issue/12400"}, {"id"=>"12401", "key"=>"db-1673", "self"=>"https://dbteam.atlassian.net/rest/api/2/issue/12401"}], "errors"=>[]}
 ```
+
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/KEmfsa4qza2Cv1DSAqYWa1kA/dinsaw/asana_to_jira'> <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/KEmfsa4qza2Cv1DSAqYWa1kA/dinsaw/asana_to_jira.svg' /> </a>
+
