@@ -80,5 +80,5 @@ yes
 ```
 
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/KEmfsa4qza2Cv1DSAqYWa1kA/dinsaw/asana_to_jira'> <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/KEmfsa4qza2Cv1DSAqYWa1kA/dinsaw/asana_to_jira.svg' /> </a>
+
 
